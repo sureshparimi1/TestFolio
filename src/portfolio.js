@@ -340,10 +340,16 @@ const talkSection = {
 
   talks: [
     {
-      title: "How to tell stories using test cases using BDD",
-      subtitle: "Know how to write good test cases using BDD",
+      title: "Improve quality using BDD",
+      subtitle: "Know how to write good user stories",
       slides_url: "Coming soon",
       event_url: "Coming soon"
+    },
+    {
+      title: "Automating REST API Testing - Postman",
+      subtitle: "Automate REST APIs using Postman/Newman",
+      slides_url: "https://www.youtube.com/watch?v=XL3uO5ZUs2k&feature=youtu.be",
+      event_url: "https://www.youtube.com/watch?v=XL3uO5ZUs2k&feature=youtu.be"
     }
   ]
 };
