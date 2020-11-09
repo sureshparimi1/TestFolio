@@ -370,7 +370,7 @@ const contactInfo = {
 
 const twitterDetails = {
 
-  userName : "geekivillager"//Replace "twitter" with your twitter username without @
+  userName : ""//Replace "twitter" with your twitter username without @
 
 };
 export { greeting, socialMediaLinks, skillsSection, educationInfo, techStack, workExperiences, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo , twitterDetails};
