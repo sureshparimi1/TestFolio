@@ -13,7 +13,7 @@ export default function Footer() {
           {emoji("Made with ❤️ by Suresh Parimi")}
         </p>
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
-          Theme by{" "}
+          Linkedin Profile{" "}
           <a href="https://www.linkedin.com/in/sparimi/">
             Suresh Parimi's Tester Portfolio
           </a>
