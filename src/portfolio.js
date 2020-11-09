@@ -289,7 +289,7 @@ const achievementSection = {
     {
       title: "Linkedin Recommendation 1",
       subtitle: "I helped Xuan with testing of one of the critical projects that she is handling, for Test data management best practices",
-      image: require("./assets/images/Xuan Liao-reco1"),
+      image: require("./assets/images/Xuan_reco1"),
       footerLink: [
         { name: "Linkedin Recommendation", url: "https://www.linkedin.com/in/sparimi/"}
       ]
@@ -297,7 +297,7 @@ const achievementSection = {
     {
       title: "Linkedin Recommendation 2",
       subtitle: "Worked with Larry in one of the critical projects in Gordon Food Services",
-      image: require("./assets/images/Larry-reco2"),
+      image: require("./assets/images/Larry_reco2"),
       footerLink: [{ name: "Linkedin Recommendation", url: "https://www.linkedin.com/in/sparimi/"}]
     },
 
