@@ -8,7 +8,7 @@ import emoji from "react-easy-emoji";
 const greeting = {
   /* Your Summary And Greeting Section */
   username: "Suresh Parimi",
-  title: "Hi all, I'm Suresh",
+  title: "Hola!, I'm Suresh",
   subTitle: emoji("A passionate Software Tester 🚀 providing quality assurance solutions for small,medium and big size companies and building scalable automated software testing frameworks for Web and Mobile applications, REST APIs and Microservices with Python / Selenium / Postman & newman / Pytest/ Java and some other cool libraries and frameworks."),
   resumeLink: "https://www.linkedin.com/in/sparimi"
 };
@@ -350,6 +350,12 @@ const talkSection = {
       subtitle: "Automate REST APIs using Postman/Newman",
       slides_url: "https://www.youtube.com/watch?v=XL3uO5ZUs2k&feature=youtu.be",
       event_url: "https://www.youtube.com/watch?v=XL3uO5ZUs2k&feature=youtu.be"
+    },
+    {
+      title: "Pytest BDD with Suresh",
+      subtitle: "Automate REST APIs using Pytest-BDD",
+      slides_url: "",
+      event_url: ""
     }
   ]
 };
