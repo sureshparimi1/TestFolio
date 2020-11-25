@@ -30,7 +30,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY SOFTWARE TEST CONSULTANT WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "I would love work with the teams where quality is team's perspective.My Tech stack is here",
   skills: [
     emoji("⚡ Test highly interactive Front end / User Interfaces for your web and mobile applications"),
     emoji("⚡ Test REST APIs & Microservices of prodcuts/applications"),
