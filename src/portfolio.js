@@ -269,7 +269,7 @@ To know how to get github key look at readme.md */
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
   githubUserName: "sureshparimi", // Change to your github username to view your profile in Contact Section.
-  showGithubProfile :"false" // Set true or false to show Contact profile using Github, defaults to false
+  showGithubProfile :"true" // Set true or false to show Contact profile using Github, defaults to false
 };
 
 
@@ -277,7 +277,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Brands I worked with",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO DELIVER THEIR PRODUCTS/PRJECTS WITH HIGH QUALITY",
+  subtitle: "Some of the leading brands I worked with, to deliver the products/projects with high quality",
   projects: [
     {
       image: require("./assets/images/T-mobile.png"),
@@ -355,7 +355,7 @@ const blogSection = {
 // Talks Sections
 
 const talkSection = {
-  title: "TALKS",
+  title: "Talks",
   subtitle: emoji("I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"),
 
   talks: [
@@ -392,7 +392,7 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle: "Hi, I'm based out of Berlin,to hire me or just to say Hello, my inbox is open for all.",
+  subtitle: "Hi, I'm an e-resident of Estonia,to hire me or just to say Hello, my inbox is open for all.",
   number: "+91-949-180-6256",
   Skype:"sureshparimi1",
   email_address: "suresh.parimi2@gmail.com"
