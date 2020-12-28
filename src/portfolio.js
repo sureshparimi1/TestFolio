@@ -33,9 +33,9 @@ const skillsSection = {
   subTitle: "I would love work with the teams where quality is team's perspective.My Tech stack is here",
   skills: [
     emoji("⚡ Test highly interactive Front end / User Interfaces for your web and mobile applications"),
-    emoji("⚡ Test REST APIs & Microservices of prodcuts/applications"),
-    emoji("⚡ Test Infrastructure as a code built on AWS,Terraform "),
-    emoji("⚡ Building scalable automated software test frameworks using Python/Selenium/Cypress/Robot Framework/Postman/SoapUI")
+    emoji("⚡ Automated testing of REST APIs & Microservices of prodcuts/applications"),
+    emoji("⚡ Test Infrastructure as a code built on AWS"),
+    emoji("⚡ Building scalable automated software test frameworks using Pytest/Selenium/Cypress/Robot Framework/Postman/Pytest")
   ],
 
 /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -55,11 +55,15 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-pytest"
     },
     {
+      skillName: "Pytest-BDD",
+      fontAwesomeClassname: "fab fa-pytest"
+    },
+    {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "Postman",
+      skillName: "Postman/Newman",
       fontAwesomeClassname: "fab fa-postman"
     },
     {
@@ -85,6 +89,18 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "Jenkins",
       fontAwesomeClassname: "fas fa-jenkins"
+    },
+    {
+      skillName: "BeautiFulSoup",
+      fontAwesomeClassname: "fas fa-bs4"
+    },
+    {
+      skillName: "Devops",
+      fontAwesomeClassname: "fas fa-devops"
+    },
+    {
+      skillName: "CI/CD",
+      fontAwesomeClassname: "fas fa-ci/cd"
     },
     {
       skillName: "docker",
@@ -120,6 +136,10 @@ const techStack = {
     {
       Stack: "Backend Automation - REST APIs/Microservices",
       progressPercentage: "90%"
+    },
+    {
+      Stack: "DevOps",
+      progressPercentage: "80%"
     },
     {
       Stack: "Python Programming",
@@ -195,15 +215,15 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Automation Test Engineer",
+      role: "Lead Automation Test Consultant",
       company: "Pfizer",
       companylogo: require("./assets/images/pfizer.png"),
       date: "April 2020 – Present",
-      desc: "Automating testing of infrastructure as a code platform that helps in automatically build, deploy and host websites",
+      desc: "Automating testing of Websites, Mobiles and back end testing using Pytest-bdd,Selenium,Robot Framework,Appium,Postman/Newman,TestRail,JIRA,Github Actions",
       descBullets: [
         "Automate the testing of Cloud based infrastructure as a code platform using pytest-BDD, selenium,Robot Framework,Postman",
-        "Automating testing of various AWS components such as EC2, SNS,SQS,S3,EC2 etc using Pytest-BDD, Robot Framework",
-        "Develop Automated testing frameworks to be integrated with CI/CD using Jenkins,Git",
+        "Automating testing of various AWS components such as EC2, SNS,SQS,S3,EC2 etc using Boto3,Requests,Python",
+        "Develop Automated testing frameworks to be integrated with CI/CD using git, JIRA,Github Actions",
         "Set up of Software testing best practices in Agile scrum team",
         "Engaged in improving the quality processes and frameworks deployed across Pfizer digital",
         "Mentor the QA members in testing the applications/ building the frameworks"

@@ -24,7 +24,7 @@ export default class Main extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      isDark: false,
+      isDark: true,
     };
   }
 
@@ -33,7 +33,7 @@ export default class Main extends Component {
     this.setState({ isDark: darkPref.matches });
   }
   changeTheme = () => {
-    this.setState({ isDark: !this.state.isDark });
+    this.setState({ isDark: this.state.isDark });
   };
 
   render() {
