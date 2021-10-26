@@ -134,7 +134,7 @@ const techStack = {
       progressPercentage: "100%"  //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend Automation - REST APIs/Microservices",
+      Stack: " REST APIs/Microservices Automation - Postman,Swagger,Pytest,",
       progressPercentage: "90%"
     },
     {
@@ -198,7 +198,7 @@ const techStack = {
       progressPercentage: "100%"
     },
     {
-      Stack: "Test Planning/Strategies",
+      Stack: "Test Management",
       progressPercentage: "100%"
     },
     {
