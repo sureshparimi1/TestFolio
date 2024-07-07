@@ -215,7 +215,7 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Lead Automation Test Consultant",
+      role: "Lead Automation Test Consultant & Test Manager",
       company: "Pfizer",
       companylogo: require("./assets/images/pfizer.png"),
       date: "April 2020 – Present",
@@ -360,7 +360,7 @@ const talkSection = {
 
   talks: [
     {
-      title: "Improve quality using BDD",
+      title: "Improve quality using BDD - Amsterdam QA Meetup, Netherlands",
       subtitle: "Know how to write good user stories",
       slides_url: "Coming soon",
       event_url: "Coming soon"
@@ -380,22 +380,12 @@ const talkSection = {
   ]
 };
 
-// Podcast Section
-
-const podcastSection = {
-  title: emoji("Podcast 🎙️"),
-  subtitle: "I LOVE TO TALK AND SHARE WHAT I KNOW IN TESTING",
-
-  // Please Provide with Your Podcast embeded Link
-  podcast: ["https://anchor.fm/codevcast/embed/episodes/DevStory---Suresh-Parimi-from-Berlin--Germany-e9givv/a-a15itvo"]
-};
-
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle: "Hi, I'm an e-resident of Estonia,to hire me or just to say Hello, my inbox is open for all.",
-  number: "+91-949-180-6256",
+  subtitle: "Amsterdam, Netherlands.",
+  number: "+31-616270233",
   Skype:"sureshparimi1",
-  email_address: "suresh.parimi2@gmail.com"
+  email_address: "reachparimi@gmail.com"
 };
 
 //Twitter Section
